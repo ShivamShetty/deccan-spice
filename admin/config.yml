@@ -2641,6 +2641,14 @@ collections:
             label: Link
             name: e5c3d0b
             widget: string
+          - hint: 'Original link: tel:+919820451199, key: 4ae1fec2'
+            label: Link
+            name: 4ae1fec2
+            widget: string
+          - hint: 'Original link: tel:+919920151199, key: -25f81c1a'
+            label: Link
+            name: '-25f81c1a'
+            widget: string
       - label: Images
         name: images
         file: cms/_data/images.json
